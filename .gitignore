@@ -123,7 +123,7 @@ build-iPhoneSimulator/
 .idea/modules
 .idea/inspectionProfiles/
 .idea/misc.xml
-.idea/vsc.xml
+.idea/vcs.xml
 
 # CMake
 cmake-build-*/
